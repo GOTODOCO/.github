@@ -1,12 +1,14 @@
-## Hi there 👋
+# Welcome to GOTODOCO
 
-<!--
+A central and single Source of Truth [SoT] approach for popular and re-usable assets, information, attachments and references. 
 
-**Here are some ideas to get you started:**
+## Content types
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Articles
+- Assets
+- References
+- Project files and attachments [i.e., for instructional learning]
+- Code samples
+- Contextual references and dictionaries
+- Templates.
+
