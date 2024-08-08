@@ -1,6 +1,6 @@
 # Welcome to GOTODOCO
 
-Your GOTO for exceptional and continuous DOCO creation, transformation and validated single-source content, concepts, and tools.
+Your GOTO for exceptional DOCO transformation and continuous, single-source content concepts and methods. We are pioneering a global initiative to transform the way content is planned, created, managed and consumed. 
 
 Meet the GOTODOCO sSoT, and our global initiative to create a central and single Source of Truth [G2DsSoT] for popular and re-usable content. 
 
