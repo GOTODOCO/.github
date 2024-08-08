@@ -14,7 +14,7 @@ It’s all about personas for us!
 
 ## Snapshot
 
-At a high level our framework focusses on four areas: INSIGHT, INTENT, PURPOSE and ENGAGEMENT.
+We created a framework around on four important areas: INSIGHT, INTENT, PURPOSE and ENGAGEMENT.
 
 **INSIGHT** = The understand step! Explore, understand, validate, plan.
 
@@ -24,6 +24,6 @@ At a high level our framework focusses on four areas: INSIGHT, INTENT, PURPOSE a
 
 **CONSUMPTION** = In some ways, the most important area: The HOW! Is the content fit for purpose, and how will your audience CONSUME the content.
 
-At the core of the GOTODOCO framework is the engine. Built with knowledge, experience, skills, smarts, tools and a CI/CD motor, to keep the machine fully functioning, serviced and operating with peak performance.
+And at the CORE is the engine. Built with knowledge, experience, skills, smarts, tools and a CI/CD motor, to keep the machine fully functioning, serviced and operating with peak performance.
 
 
