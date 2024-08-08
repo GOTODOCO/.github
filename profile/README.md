@@ -6,22 +6,25 @@ No biggie, (_except it is... to us_).
 
 We are passionate about DOCO and driven to create a new way forward for content and encourage you to learm more about our intent and purpose on our [website](https://gotodoco.com).
 
-## Blueprint
+## About
 
 GOTODOCO is designed with intent, and created with purpose. 
 We identify inefficiencies with content and work to improve the intent and purpose. 
 It’s all about personas for us!
 
-## Heliopters
+## Snapshot
 
 At a high level our framework focusses on four areas: INSIGHT, INTENT, PURPOSE and ENGAGEMENT.
 
 **INSIGHT** = The understand step! Explore, understand, validate, plan.
+
 **INTENT** = The WHY for your CONTENT. What is your intention, what do you need to DO with the content and where does it fit in the framework.
+
 **PURPOSE** = OUTPUT and AUDIENCE. What is the future state, what do you need to ACHIEVE, and WHO is your audience. 
+
 **CONSUMPTION** = In some ways, the most important area: The HOW! Is the content fit for purpose, and how will your audience CONSUME the content.
 
-## The mechanics
+## Mechanics
 
 At the core of the GOTODOCO framework is the engine, designed and built with knowledge, experience, skills, smarts, tools and a CI/CD motor, to keep the machine fully functioning, serviced and operating with peak performance.
 
