@@ -24,8 +24,6 @@ At a high level our framework focusses on four areas: INSIGHT, INTENT, PURPOSE a
 
 **CONSUMPTION** = In some ways, the most important area: The HOW! Is the content fit for purpose, and how will your audience CONSUME the content.
 
-## Mechanics
-
-At the core of the GOTODOCO framework is the engine, designed and built with knowledge, experience, skills, smarts, tools and a CI/CD motor, to keep the machine fully functioning, serviced and operating with peak performance.
+At the core of the GOTODOCO framework is the engine. Built with knowledge, experience, skills, smarts, tools and a CI/CD motor, to keep the machine fully functioning, serviced and operating with peak performance.
 
 
