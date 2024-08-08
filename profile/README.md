@@ -1,19 +1,24 @@
 # Welcome to GOTODOCO
 
-Your GOTO for exceptional DOCO transformation and continuous, single-source content concepts and methods. We are pioneering a global initiative to transform the way content is planned, created, managed and consumed. 
+Your GOTO for exceptional DOCO transformation and continuous, single-source content, concepts and methods. We are pioneering a global initiative to transform the way content is planned, created, managed and consumed. 
 
-Meet the GOTODOCO sSoT, and our global initiative to create a central and single Source of Truth [G2DsSoT] for popular and re-usable content. 
+We are passionate about DOCO and driven to create a new way forward for content so we encourage you to explore our [website](https://gotodoco.com) to learn more about our intent and purpose. 
 
-## Designed with intent, created with purpose.
-This GitHub repository exists for approved members, invested, and with an assigned role, to contribute to a new way for content. 
-If you have landed here and and want to learn more about our intent and purpose - we encourage you to GO TO the GOTODOCO [website](https://gotodoco.com) for more details.
+## About
 
-## Snapshot
+GOTODOCO is designed with intent, created with purpose. 
+We identify inefficiencies with content and get to work to improve the intent and purpose. 
+It’s all about personas for us!
 
-At a high level the G2DsSoT is split into three categories: INPUT, OUTPU and ARTICLES.
+## A heliopter view
 
-Think of INPUT as your intent: the building blocks used to create the content with a FUTURE STATE, or PUBLISHED state, (the output). 
-The OUTPUT is all about the purpose: the content being created and built using the building blocks [from the input]; who is the audience and why is it needed and being created/published.
+At a high level our framework focusses on four areas: INSIGHT, INTENT, PURPOSE and ENGAGEMENT.
 
-ARTICLES are the the core, the bees kneez, the mechanics! 
-They are delivered by way of a snapshot, created on a persona, but allowing the end user to interact and consume the content, how and when they want to, AND in a way that THEY decide.
+INSIGHT = The understand step! Explore, understand, validate, plan.
+INTENT = The WHY for your CONTENT. What is your intention, what do you need to DO with the content and where does it fit in the framework.
+PURPOSE = OUTPUT and AUDIENCE. What is the future state, what do you need to ACHIEVE, and WHO is your audience. 
+ENGAGEMENT = Is the content fit for purpose, how will your audience CONSUME the content.
+
+At the core of the GOTODOCO framework is the engine, designed and built with knowledge, experience, skills, smarts, tools and a CI/CD motor, to keep the machine fully functioning, serviced and operating with peak performance.
+
+
