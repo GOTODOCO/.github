@@ -1,7 +1,8 @@
 # Welcome to GOTODOCO
 
-Your GOTO for exceptional DOCO transformation and continuous, single-source content, concepts and methods. 
-We are DOCO experts, focussed on creating a new way forward for content.
+Content reimagined and your GOTO for exceptional and continuous DOCO planning, creation, management and engagement.
+We are DOCO experts focused on creating a new way forward for content.
+
 We are driving a global initiative to transform content. In particular how it is planned, created, managed and consumed.
 No biggie, (_except it is... to us_).
 
