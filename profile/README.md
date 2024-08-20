@@ -1,6 +1,8 @@
 # GOTODOCO
 
 Content reimagined and your GOTO for exceptional and continuous DOCO planning, creation, management and engagement.
+
+An opportunity exists now. It is a rare and real opportunity to help navigate a new way forward for content. So, our intent is to do just that and give content the stage it deserves.
 We are DOCO experts focused on creating a new way forward for content.
 
 We are driving a global initiative to transform content. In particular how it is planned, created, managed and consumed.
