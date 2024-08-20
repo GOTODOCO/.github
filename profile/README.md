@@ -1,4 +1,4 @@
-# Welcome to GOTODOCO
+# GOTODOCO
 
 Content reimagined and your GOTO for exceptional and continuous DOCO planning, creation, management and engagement.
 We are DOCO experts focused on creating a new way forward for content.
