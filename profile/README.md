@@ -10,3 +10,10 @@ No biggie (_except it is... to us_).
 GOTODOCO is designed with intent and created for purpose.
 
 It's all about end users for us!
+
+## Our Intent 
+
+To offer a central and single Source of Truth [sSoT] approach for popular and re-usable assets, information, attachments and references. 
+
+
+
