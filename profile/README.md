@@ -1,19 +1,39 @@
 # GOTODOCO
+Your content reimagined and GOTO for exceptional and continuous DOCO planning, creation, management and engagement.
 
-Content reimagined and your GOTO for exceptional and continuous DOCO planning, creation, management and engagement.
+| Overview | Get to Know Us | Meet GOTOSoT |Resources | Roadmap | 
+| --| --|--| --|--|
+
+## Overview
 
 An opportunity exists now for documentation and information to give it the stage it deserves. 
+We are pioneering a new way forward for content, documentation and information. No biggie (_except it is... to us_).
 
-We are creating a new way forward for content with a global initiative to pioneer and transform how content is planned, created, managed and consumed.
-No biggie (_except it is... to us_).
+GOTODOCO is designed with intent and created for purpose. 
 
-GOTODOCO is designed with intent and created for purpose.
+## Get to Know Us
+### Our Intent 
 
-It's all about end users for us!
+It's all about end users for us! 
+Our intent is to improve how content and information is planned, created, managed and consumed.
 
-## Our Intent 
+### Our Purpose
+Create a consistent approach to content using curated frameworks, concepts and tools, driven by identified and validated initiatives.
 
-To offer a central and single Source of Truth [sSoT] approach for popular and re-usable assets, information, attachments and references. 
+## Meet GOTOSoT
 
+Our first initiative. A central GOTO and a Source of Truth [SoT] for popular supporting files and content, including:
+- Project files to use for instructed tutorials.
+- Code samples.
+- Contextual references and dictionaries.
+- Ready-to-use templates.
+- Articles.
+
+## Resources
+
+Roadmap
+Guides
+Use Cases
+Search by Provider
 
 
