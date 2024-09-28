@@ -1,7 +1,7 @@
 # GOTODOCO
 Your content reimagined and GOTO for exceptional and continuous DOCO planning, creation, management and engagement.
 
-| [Overview](#overview) | [Get to Know Us](#get-to-know-us) | Meet GOTOSoT |Resources | Roadmap | 
+| [Overview](#overview) | [Get to Know Us](#get-to-know-us) | [Meet GOTOSoT](#meet-gotosot) |[Resources](#resources) | [Roadmap](#roadmap) | 
 | --| --|--| --|--|
 
 ## Overview
