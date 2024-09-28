@@ -29,6 +29,8 @@ Our first initiative. A central GOTO and a Source of Truth [SoT] for popular sup
 - Ready-to-use templates.
 - Articles.
 
+[Learn more](https://github.com/GOTOSoT)
+
 ### Roadmap 
 - [GitHub](https://github.com/orgs/GOTODOCO/projects/13/views/1)
 - [Demo](https://gotodoco.com/demos/gotodoco)
