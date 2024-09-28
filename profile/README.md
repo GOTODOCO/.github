@@ -1,7 +1,7 @@
 # GOTODOCO
 Your content reimagined and GOTO for exceptional and continuous DOCO planning, creation, management and engagement.
 
-| [Overview](#overview) | [Get to Know Us](#get-to-know-us) | [Meet GOTOSoT](#meet-gotosot) |[Resources](#resources) | [Roadmap](#roadmap) | 
+| [Overview](#overview) | [Get to Know Us](#get-to-know-us) | [Meet GOTOSoT](#meet-gotosot) |[Resources](#resources) | [Roadmap](https://github.com/orgs/GOTODOCO/projects/13/views/1) | 
 | --| --|--| --|--|
 
 ## Overview
@@ -31,9 +31,11 @@ Our first initiative. A central GOTO and a Source of Truth [SoT] for popular sup
 
 ## Resources
 
-Roadmap
-Guides
-Use Cases
-Search by Provider
+### Roadmap 
+- [GitHub](https://github.com/orgs/GOTODOCO/projects/13/views/1)
+- [Demo](https://gotodoco.com/demos/gotodoco)
+- Guides
+- Use Cases
+- Search by Provider
 
 
