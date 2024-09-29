@@ -1,17 +1,14 @@
 # GOTODOCO
 Your content reimagined and GOTO for exceptional and continuous DOCO planning, creation, management and engagement.
-
-| [Overview](#overview) | [Get to Know Us](#get-to-know-us) | [Meet GOTOSoT](#meet-gotosot)  | [Roadmap](#roadmap) | [Resources](#resources) |
-| --| --|--| --|--|
-
-## Overview
-
 An opportunity exists now for documentation and information to give it the stage it deserves. 
 We are pioneering a new way forward for content, documentation and information. No biggie (_except it is... to us_).
 
-GOTODOCO is designed with intent and created for purpose. 
+| [Get to Know Us](#get-to-know-us) | [Meet GOTOSoT](#meet-gotosot)  | [Roadmap](#roadmap) | 
+| --| --|--| 
+
 
 ## Get to Know Us
+GOTODOCO is designed with intent and created for purpose. 
 ### Our Intent 
 
 It's all about end users for us! 
@@ -33,10 +30,6 @@ Our first initiative. A central GOTO and a Source of Truth [SoT] for popular sup
 
 ### Roadmap 
 - [GitHub](https://github.com/orgs/GOTODOCO/projects/13/views/1)
-- [Demo](https://gotodoco.com/demos/gotodoco)
+- [Demo](https://demos.gotodoco.com/gotodoco)
 
-## Resources
-- Guides
-- Use Cases
-- Search by Provider
 
