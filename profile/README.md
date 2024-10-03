@@ -4,7 +4,7 @@
 An opportunity exists now for documentation and information to give it the stage it deserves. 
 We are pioneering a new way forward for content, documentation and information. No biggie (_except it is... to us_).
 
-| [Get to Know Us](#get-to-know-us) | [Meet GOTOSoT](#meet-gotosot)  | 
+| [Get to Know Us](#get-to-know-us) | [Meet GOTOSoT](#meet-gotosot) | 
 | --| --| 
 
 ## Get to Know Us
