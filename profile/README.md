@@ -8,16 +8,22 @@ That is why we are pioneering a new way forward for documentation, content and i
 | --| --| 
 
 ## Get to Know Us
-GOTODOCO is designed with intent and created for purpose. 
+GOTODOCO is designed with intent and created for purpose. It's all about end users for us! 
 
 ### Our Intent 
-It's all about end users for us! 
-Our intent is to improve how content and information is planned, created, managed and consumed.
+We aim to improve how content and information is considered, planned, created and consumed, with the end user always as our focus. 
+By doing this We will be your GOTO for continuouos, reliable and validated sources of content, that sets a new standard in end user confidence.
 
 ### Our Purpose
-Create a consistent approach to content using curated frameworks, concepts and tools, driven by identified and validated initiatives.
+To create a continuous and single source of content that caters to all end users, regardless of their age, ability, knowledge, intent, purpose, mood or otherwise.
 
-## Meet GOTOSoT
+### Our Ethos
+We are a purpose brand,and that means everything we consider, interact or engage with, must always start with consideration, understanding, context and validation, and be driven by an initiative.
+
+### Our Initiatives
+
+### Initiative one
+##### Meet GOTOSoT
 Starting with our first initiative. Meet GOTOSoT... a central GOTO and Source of Truth [SoT] approach for popular supporting files and content, including:
 
 - Articles
