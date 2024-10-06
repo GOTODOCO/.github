@@ -20,7 +20,7 @@ We are a purpose brand,and that means everything we consider, interact or engage
 
 ### Our Initiatives
 
-#### ONE
+#### I-ONE
 
 **Meet GOTOSoT**
 Starting with our first initiative. Meet GOTOSoT... a central GOTO and Source of Truth [SoT] approach for popular supporting files and content, including:
