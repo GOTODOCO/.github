@@ -3,12 +3,10 @@
 
 An opportunity exists now to improve documentation and content and give them the stage they deserve. 
 That is why we are pioneering a new way forward for documentation, content and information. No biggie (_except it is... to us_).
-
-| [Get to Know Us](#get-to-know-us) | [Meet GOTOSoT](#meet-gotosot) | 
-| --| --| 
-
-## Get to Know Us
 GOTODOCO is designed with intent and created for purpose. It's all about end users for us! 
+
+| [Intent](#our-intent) | [Purpose](#our-purpose) | [Ethos](#our-ethos) | [Initiatives](#our-initiatives) | [Roadmap](#roadmap) |
+| --| --| --| --| --| 
 
 ### Our Intent 
 We aim to improve how content and information is considered, planned, created and consumed, with the end user always as our focus. 
@@ -22,8 +20,9 @@ We are a purpose brand,and that means everything we consider, interact or engage
 
 ### Our Initiatives
 
-### Initiative one
-##### Meet GOTOSoT
+### Initiative 1
+
+#### Meet GOTOSoT
 Starting with our first initiative. Meet GOTOSoT... a central GOTO and Source of Truth [SoT] approach for popular supporting files and content, including:
 
 - Articles
@@ -37,6 +36,7 @@ Starting with our first initiative. Meet GOTOSoT... a central GOTO and Source of
 - Templates
 - Data dictionaries
 
-And this is just the beginning! GOTO our [Roadmap](https://github.com/orgs/GOTODOCO/projects/13/views/1) to learn more and contribute your ideas.
+And this is just the beginning! 
 
-Are you ready? (_New ways don't create themselves._)
+### Roadmap
+GOTO our [Roadmap](https://github.com/orgs/GOTODOCO/projects/13/views/1) to learn more and contribute your ideas.
