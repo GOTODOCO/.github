@@ -1,5 +1,5 @@
 # GOTODOCO
-#### Your content reimagined and GOTO for exceptional and continuous DOCO planning, creation, management and engagement.
+#### Your content reimagined and GOTO for exceptional DOCO planning, creation, management and engagement.
 
 An opportunity exists now to improve documentation and content and give them the stage they deserve. 
 That is why we are pioneering a new way forward for documentation, content and information. No biggie (_except it is... to us_).
