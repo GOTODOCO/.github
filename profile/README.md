@@ -5,7 +5,7 @@ An opportunity exists now to improve documentation and content and give them the
 That is why we are pioneering a new way forward for documentation, content and information. No biggie (_except it is... to us_).
 GOTODOCO is designed with intent and created for purpose. It's all about end users for us! 
 
-| [Intent](#our-intent) | [Purpose](#our-purpose) | [Ethos](#our-ethos) | [Initiatives](#our-initiatives) | [Roadmap](#roadmap) |
+| [Intent](#our-intent) | [Purpose](#our-purpose) | [Ethos](#our-ethos) | [Initiatives](#one) | [Roadmap](#roadmap) |
 | --| --| --| --| --| 
 
 ### Our Intent 
@@ -20,9 +20,9 @@ We are a purpose brand,and that means everything we consider, interact or engage
 
 ### Our Initiatives
 
-### Initiative 1
+#### ONE
 
-#### Meet GOTOSoT
+**Meet GOTOSoT**
 Starting with our first initiative. Meet GOTOSoT... a central GOTO and Source of Truth [SoT] approach for popular supporting files and content, including:
 
 - Articles
