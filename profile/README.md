@@ -6,6 +6,10 @@ GOTODOCO is designed with intent, created for purpose, and your GOTO for excepti
 
 We are pioneering a new way to improve how content and information are considered, planned, created, and consumed using our curated user-centric framework as our core foundation.
 
+## Get Started
+
+Get started with our Kickstarter GitHub template.
+
 ### Initiatives
 
 Meet GOTOSoT... a central GOTO and Source of Truth [SoT] approach for popular and common samples, files, packages, and references, including:
