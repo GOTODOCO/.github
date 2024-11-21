@@ -4,7 +4,7 @@
 
 GOTODOCO is designed with intent, created for purpose, and your GOTO for exceptional and considerate DOCO, tools, frameworks, and Enterprise applications.
 
-We are pioneering a new way forward with our goal to improve how content and information are considered, planned, created, and consumed using our curated user-centric framework as our foundation.
+We are pioneering a new way to improve how content and information are considered, planned, created, and consumed using our curated user-centric framework as our core foundation.
 
 ### Initiatives
 
