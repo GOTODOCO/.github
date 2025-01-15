@@ -15,12 +15,12 @@ Get started with our Kickstarter GitHub template.
 Meet GOTOSoT... a central GOTO and Source of Truth [SoT] approach for popular and common samples, files, packages, and references, including:
 
 - Articles
-- References
-- Context
+- Assets
+- Code samples
+- Dictionaries
 - Information
 - Project files
 - Packages
-- Assets
-- Code samples
+- References
 - Templates
-- Data dictionaries
+
