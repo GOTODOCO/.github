@@ -1,14 +1,10 @@
-# GOTODOCO
+# Welcome to GOTODOCO
 
-#### Content Reimagined
+Your GOTO for exceptional and considerate DOCO. We are pioneering a new way to improve DOCO, content, and information using our user-centric framework as the foundation.
 
-GOTODOCO is designed with intent, created for purpose, and your GOTO for exceptional and considerate DOCO, tools, frameworks, and Enterprise applications.
+## Designed with Intent and Created for Purpose
 
-We are pioneering a new way to improve the consideration and engagement of content and information using our curated, user-centric framework as the foundation.
-
-## Get Started
-
-Get started with our Kickstarter GitHub template.
+Our curated, intelligent, simple, and considerate frameworks, apps, and concepts simplify and deliver content for the ultimate user and audience engagement and consumption experiences. 
 
 ### Initiatives
 
