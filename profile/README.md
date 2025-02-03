@@ -4,7 +4,7 @@ Your GOTO for exceptional and considerate DOCO. We are pioneering a new way to i
 
 ## Designed with Intent and Created for Purpose
 
-Our curated, intelligent, simple, and considerate frameworks, apps, and concepts simplify and deliver content for the ultimate user and audience engagement and consumption experiences. 
+Our curated, intelligent, simple, and considerate frameworks, apps, and concepts simplify and deliver content for the ultimate user and audience engagement experiences. 
 
 ### Initiatives
 
