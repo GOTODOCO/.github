@@ -8,7 +8,7 @@ Our curated, smart, simple, and considerate frameworks, apps, and concepts deliv
 
 ## Initiatives
 
-Meet GOTOSoT... our global initiative to deliver a central Source of Truth [SoT] for popular and common samples, files, packages, and references, including:
+Meet [GOTOSoT](https://github.com/GOTOSoT) ... our global initiative to deliver a central Source of Truth [SoT] for popular and common samples, files, packages, and references, including:
 
 - Articles
 - Assets
