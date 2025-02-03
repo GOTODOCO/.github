@@ -8,15 +8,15 @@ Our curated, intelligent, simple, and considerate frameworks, apps, and concepts
 
 ### Initiatives
 
-Meet GOTOSoT... a central GOTO and Source of Truth [SoT] approach for popular and common samples, files, packages, and references, including:
+Meet GOTOSoT... our global initiative to deliver a central Source of Truth [SoT] for popular and common samples, files, packages, and references, including:
 
 - Articles
 - Assets
-- Code samples
+- Blueprints
 - Dictionaries
 - Information
 - Project files
 - Packages
 - References
+- Samples
 - Templates
-
