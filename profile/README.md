@@ -4,11 +4,8 @@ Your GOTO for exceptional and considerate DOCO. Using our curated user-centric f
 
 ## Designed with Intent and Created for Purpose
 
-Our curated, smart, simple, and considerate frameworks, apps, and concepts deliver the ultimate user and audience engagement experiences. 
+Our curated, smart, simple, and considerate frameworks, apps, and concepts for the ultimate user and audience engagement experiences. 
 
-## Initiatives
+## Meet GOTODOCO SoT
 
-Meet [GOTOSoT](https://github.com/GOTOSoT) ... our improvement initiative to deliver a central Source of Truth [SoT] for popular and commonly used content.
-
-
-Visit our [website](https://gotodoco.com) to learn more about us.
+[GOTODOCOSoT](https://github.com/GOTODOCOSoT) is a global inititiative to improve content with a single source of truth for popular and commonly used content.
