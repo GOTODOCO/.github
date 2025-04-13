@@ -1,10 +1,8 @@
 # GOTODOCO
 ### Content Reimagined
-Designed with Intent and _created_ for _purpose_. GOTODOCO is your GOTO for exceptional, consistent, and considerate DOCO. 
+Designed with intent, created for purpose. Your GOTO for exceptional, consistent, simple and considerate DOCO engagement and experiences.
 
-We are pioneering new ways, starting with our curated, user-centric framework as the foundation and simple, intelligent, and considerate tools, apps, blueprints, and the human factor to deliver the ultimate user and audience engagement experiences.
-
-GOTODOCO is pioneering new ways for content with smart, simple, and considerate frameworks, apps, and concepts for the ultimate user and audience engagement experiences.
+We are pioneering a new way with our user-centric designed framework, curated apps and blueprints and simple approach for the ultimate user and audience engagement experiences.
 
 ### Learn more at [GOTODOCO](https://gotodoco.com) 
 ### Meet [GOTODOCO SoT](https://github.com/GOTODOCOSoT): our global initiative to improve content with a single source-of-truth approach for popular and commonly used content.
