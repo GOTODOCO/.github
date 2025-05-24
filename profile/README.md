@@ -1,8 +1,8 @@
 # GOTODOCO
 _CONTENT REIMAGINED_
 
-Designed with intent, created for purpose. 
-We are pioneering a new way with simple, considerate, and intelligent user-centric offerings for the ultimate user experiences.
+Your GOTO for exceptional and consistent DOCO creation, services, insight and engagement.
+Designed with intent, created for purpose. We are pioneering a new way with considerate and intelligent user-centric offerings for the ultimate user experiences.
 
 Learn more at [GOTODOCO](https://gotodoco.com) 
 
